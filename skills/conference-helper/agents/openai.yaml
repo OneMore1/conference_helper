@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conference Helper"
+  short_description: "从研究方向、模型消融到结果成文，按当前任务推进科研工作"
+  default_prompt: "使用 $conference-helper。根据我的研究方向、模型设计或结果，完成本轮任务，结合有依据的研究 Tips，讲清贡献、证据和下一步。"

@@ -1,0 +1,4 @@
+evidence,setting,pretrained_auc,scratch_same_arch_auc,synthetic
+R1,low_label_A,0.81,0.78,true
+R2,low_label_B,0.77,0.76,true
+R3,held_out_center,0.69,0.70,true

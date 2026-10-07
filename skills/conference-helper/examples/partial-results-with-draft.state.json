@@ -1,0 +1,107 @@
+{
+  "schema_version": "0.2",
+  "project_id": "synthetic-example-not-user-results",
+  "revision": 0,
+  "updated_at": null,
+  "active_workstream": "main",
+  "workstreams": {
+    "main": {
+      "requested_stage": "auto",
+      "latest_request": "",
+      "assessments": {
+        "research_question": {
+          "status": "complete",
+          "evidence": [
+            "author:synthetic example only"
+          ],
+          "note": "Synthetic routing fixture, not an actual research assessment",
+          "assessed_by": "author",
+          "confidence": "high"
+        },
+        "literature_grounding": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "concept": {
+          "status": "complete",
+          "evidence": [
+            "author:synthetic example only"
+          ],
+          "note": "Synthetic routing fixture, not an actual research assessment",
+          "assessed_by": "author",
+          "confidence": "high"
+        },
+        "experiment_plan": {
+          "status": "complete",
+          "evidence": [
+            "author:synthetic example only"
+          ],
+          "note": "Synthetic routing fixture, not an actual research assessment",
+          "assessed_by": "author",
+          "confidence": "high"
+        },
+        "experiments": {
+          "status": "in_progress",
+          "evidence": [
+            "author:synthetic example only"
+          ],
+          "note": "Some results available, analysis pending; synthetic only",
+          "assessed_by": "author",
+          "confidence": "high"
+        },
+        "result_analysis": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "evidence_gaps": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "manuscript": {
+          "status": "complete",
+          "evidence": [
+            "author:synthetic example only"
+          ],
+          "note": "Synthetic routing fixture, not an actual research assessment",
+          "assessed_by": "author",
+          "confidence": "high",
+          "scope": "full_paper"
+        },
+        "internal_review": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low",
+          "scope": "full_paper"
+        },
+        "venue_compliance": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "submission_receipt": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        }
+      },
+      "artifacts": [],
+      "gaps": [],
+      "invalidations": []
+    }
+  }
+}

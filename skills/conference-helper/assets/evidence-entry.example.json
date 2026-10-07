@@ -1,0 +1,28 @@
+{
+  "note": "字段示意；不是研究结果。请复制字段后填入真实来源，不要把示例作为证据。",
+  "source": {
+    "source_id": "SRC001",
+    "kind": "local_result",
+    "locator": "results/actual_result.json",
+    "location_detail": "具体表/行/分析版本",
+    "verification": "read",
+    "checked_on": null,
+    "sha256": null
+  },
+  "claim": {
+    "claim_id": "CLM001",
+    "text": "用实际结果支持的准确表述替换此字段",
+    "claim_type": "empirical",
+    "use_in_manuscript": "reported_result",
+    "status": "supported",
+    "evidence_ids": [
+      "SRC001"
+    ],
+    "scope": {
+      "dataset_version": null,
+      "split": null,
+      "metric": null,
+      "statistical_unit": null
+    }
+  }
+}

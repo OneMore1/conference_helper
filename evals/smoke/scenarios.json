@@ -1,0 +1,43 @@
+{
+  "release": "0.1.0",
+  "date": "2026-10-07",
+  "skill": "conference-helper",
+  "execution": "Independent subagents, no inherited parent conversation, no model override.",
+  "constraints": [
+    "Use the Skill and relevant provided files",
+    "No network or research execution",
+    "No expected answers or other case outputs",
+    "No changes to Skill, memory or project state"
+  ],
+  "cases": [
+    {
+      "id": "direction",
+      "request": "我想研究 fMRI 基座模型。原研究有哪些中稿率高的模式，可以直接照着选吗？请给我一个值得先研究的问题和最小验证，数据与算力暂未确定。",
+      "inputs": [],
+      "output": "direction-output.md"
+    },
+    {
+      "id": "ablation",
+      "request": "模型设计已完成，读取 model.md。结合原研究的 Tips，预算只允许再做两个对照组，我应该优先安排什么 ablation，才能检验我们的核心论断？保留设计主线，本轮只规划。",
+      "inputs": [
+        "inputs/model.md"
+      ],
+      "output": "ablation-output.md"
+    },
+    {
+      "id": "writing",
+      "request": "根据 results.csv 和 context.md，怎样把结果组织成有说服力的文章？结合研究 Tips 给主线、图表/章节安排和一段 Results 示例。本轮只写作，不追加实验。",
+      "inputs": [
+        "inputs/results.csv",
+        "inputs/context.md"
+      ],
+      "output": "writing-output.md"
+    }
+  ],
+  "limitations": [
+    "Synthetic smoke cases only",
+    "No baseline or blinded score",
+    "Main agent reviews task/evidence boundaries",
+    "No real acceptance or research-quality outcome is established"
+  ]
+}

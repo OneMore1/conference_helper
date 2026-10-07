@@ -1,0 +1,22 @@
+{
+  "name": "conference-helper",
+  "version": "0.1.0",
+  "description": "Evidence-grounded research assistance for directions, ablations, paper writing and conference preparation.",
+  "author": {
+    "name": "OneMore1"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Conference Helper",
+    "shortDescription": "Research questions, evidence, and paper preparation",
+    "longDescription": "Apply evidence-grounded research tips to formulate questions, prioritize controls, organize results, and prepare a conference paper.",
+    "developerName": "OneMore1",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use my research direction, model design, or results to complete the research task I request."
+    ]
+  }
+}

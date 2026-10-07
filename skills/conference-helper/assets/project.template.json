@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.2",
+  "project_id": "",
+  "user_request_verbatim": "",
+  "research_question": "",
+  "stage": "intake",
+  "contribution_type": "method",
+  "target_venue": {
+    "name": null,
+    "year": null,
+    "track": null
+  },
+  "constraints": {
+    "data_scope": [],
+    "compute_budget": null,
+    "deadline": null,
+    "must_preserve": []
+  },
+  "core_claim": "",
+  "falsification_plan": {
+    "minimal_experiment": "",
+    "negative_control": "",
+    "observation_that_would_weaken_claim": ""
+  },
+  "novelty_assessment": {
+    "status": "not_assessed",
+    "closest_prior_ids": [],
+    "delta": "",
+    "search_log": null
+  },
+  "author_decisions": {
+    "direction_approved": false,
+    "submission_approved": false
+  }
+}

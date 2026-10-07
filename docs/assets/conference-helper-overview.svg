@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="680" viewBox="0 0 1280 680" role="img" aria-labelledby="title desc">
+  <title id="title">Conference Helper：从原论文启发到科研全过程的独立扩展</title>
+  <desc id="desc">ResearchStudio-Idea 从一千九百四十七篇机器学习论文归纳构思模式。本项目受其证据先行思路启发，扩展为任务优先、论断与来源对应、版本接续和论文产物交付的工作流。论文规模属于原研究。</desc>
+  <defs>
+    <style>
+      text { font-family: "Segoe UI", "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+      .ink { fill: #1c292b; }
+      .muted { fill: #617575; }
+      .teal { fill: #356f6b; }
+      .coral { fill: #ca5547; }
+      .bold { font-weight: 700; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1 1 L8 5 L1 9" fill="none" stroke="#648e87" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="680" rx="24" fill="#fcfcf9"/>
+  <rect x="56" y="48" width="7" height="34" rx="3" fill="#d35c4b"/>
+  <text x="78" y="75" class="ink bold" font-size="34">Conference Helper</text>
+  <text x="56" y="132" class="ink bold" font-size="42">让研究材料，变成有依据的论文产物。</text>
+  <text x="56" y="174" class="muted" font-size="21">受 ResearchStudio-Idea 启发，扩展为任务优先、证据可追踪的科研工作流。</text>
+
+  <rect x="56" y="216" width="326" height="318" rx="22" fill="#eaf3ef" stroke="#d3e5de"/>
+  <text x="80" y="251" class="teal bold" font-size="16">研究启发 · 原论文</text>
+  <text x="80" y="285" class="ink bold" font-size="25">ResearchStudio-Idea</text>
+  <text x="80" y="359" class="teal bold" font-size="61">1,947</text>
+  <text x="251" y="354" class="teal" font-size="17">篇 ML 论文</text>
+  <text x="80" y="396" class="ink" font-size="19">创新模式与证据先行的构思</text>
+  <line x1="80" y1="417" x2="357" y2="417" stroke="#c7dbd3"/>
+  <text x="80" y="450" class="teal" font-size="18">文献依据 → 问题瓶颈</text>
+  <text x="80" y="480" class="teal" font-size="18">可检验构思 → 提案审查</text>
+  <text x="80" y="512" class="muted" font-size="14">论文规模与研究发现来自原文</text>
+
+  <line x1="397" y1="373" x2="431" y2="373" stroke="#648e87" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="397" y="345" class="muted" font-size="12">启发</text>
+
+  <rect x="446" y="216" width="778" height="318" rx="22" fill="#ffffff" stroke="#dfe7e2"/>
+  <text x="470" y="251" class="coral bold" font-size="16">独立扩展 · 本项目</text>
+  <text x="470" y="287" class="ink bold" font-size="30">Conference Helper</text>
+  <text x="470" y="322" class="muted" font-size="20">一个技能入口，按当前任务进入</text>
+
+  <rect x="470" y="354" width="168" height="146" rx="14" fill="#f3f7f4"/>
+  <text x="488" y="391" class="ink bold" font-size="22">任务优先</text>
+  <rect x="488" y="406" width="38" height="3" rx="1" fill="#d35c4b"/>
+  <text x="488" y="443" class="muted" font-size="17">明确本轮范围</text>
+  <text x="488" y="470" class="muted" font-size="17">局部任务先交付</text>
+
+  <rect x="654" y="354" width="168" height="146" rx="14" fill="#f3f7f4"/>
+  <text x="672" y="391" class="ink bold" font-size="22">证据对应</text>
+  <rect x="672" y="406" width="38" height="3" rx="1" fill="#d35c4b"/>
+  <text x="672" y="443" class="muted" font-size="17">论断对照来源</text>
+  <text x="672" y="470" class="muted" font-size="17">保留正负结果</text>
+
+  <rect x="838" y="354" width="168" height="146" rx="14" fill="#f3f7f4"/>
+  <text x="856" y="391" class="ink bold" font-size="22">版本接续</text>
+  <rect x="856" y="406" width="38" height="3" rx="1" fill="#d35c4b"/>
+  <text x="856" y="443" class="muted" font-size="17">变化触发刷新</text>
+  <text x="856" y="470" class="muted" font-size="17">分支独立记录</text>
+
+  <rect x="1022" y="354" width="168" height="146" rx="14" fill="#f3f7f4"/>
+  <text x="1040" y="391" class="ink bold" font-size="22">论文产物</text>
+  <rect x="1040" y="406" width="38" height="3" rx="1" fill="#d35c4b"/>
+  <text x="1040" y="443" class="muted" font-size="17">分析、改稿与计划</text>
+  <text x="1040" y="470" class="muted" font-size="17">投稿准备与回复</text>
+
+  <rect x="56" y="558" width="1168" height="56" rx="14" fill="#f0f4f1"/>
+  <text x="80" y="593" class="teal" font-size="20">按需覆盖：选题 · 构思 · 设计 · 分析 · 补充 · 写作 · 审阅 · 投稿准备 · 回复</text>
+  <text x="56" y="651" class="muted" font-size="15">原论文提供构思启发；研究全过程的阶段衔接、版本证据与写作交付为本项目扩展。</text>
+</svg>

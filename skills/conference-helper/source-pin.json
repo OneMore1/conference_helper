@@ -1,0 +1,28 @@
+{
+  "paper": "arXiv:2607.04439v1",
+  "paper_license": "CC-BY-4.0",
+  "repository": "microsoft/ResearchStudio",
+  "commit": "063f10088af49909e1a4a7ea8d29efe19633f34e",
+  "repository_license": "MIT",
+  "license_blob_sha": "e5e946a0371af9920be22ea4adb584000fface8c",
+  "checked_on": "2026-09-29",
+  "upstream_code_bundled": false,
+  "paper_full_text_bundled": false,
+  "new_material_public_license": "MIT",
+  "inspirations": [
+    {
+      "repository": "Wang-auspicious/paper-xray",
+      "commit": "80fe6a8515d24864b71b3847bd83f963e3485a6e",
+      "license": "MIT",
+      "license_blob_sha": "f3b396cf429104c156fea0372a0317ac75794d87",
+      "checked_on": "2026-10-07",
+      "reference_paths": [
+        "SKILL.md",
+        "README.md",
+        "README.zh-CN.md"
+      ],
+      "upstream_code_bundled": false,
+      "adaptation": "Problem-led reasoning, concrete comparisons, evidence limits and research handoffs for ideation, ablations and writing; no standalone paper-reading mode."
+    }
+  ]
+}

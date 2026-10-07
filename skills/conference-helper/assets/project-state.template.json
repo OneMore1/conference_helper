@@ -1,0 +1,97 @@
+{
+  "schema_version": "0.2",
+  "project_id": "",
+  "revision": 0,
+  "updated_at": null,
+  "active_workstream": "main",
+  "workstreams": {
+    "main": {
+      "requested_stage": "auto",
+      "latest_request": "",
+      "assessments": {
+        "research_question": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "literature_grounding": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "concept": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "experiment_plan": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "experiments": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "result_analysis": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "evidence_gaps": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "manuscript": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low",
+          "scope": "full_paper"
+        },
+        "internal_review": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low",
+          "scope": "full_paper"
+        },
+        "venue_compliance": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        },
+        "submission_receipt": {
+          "status": "unknown",
+          "evidence": [],
+          "note": "",
+          "assessed_by": "unassigned",
+          "confidence": "low"
+        }
+      },
+      "artifacts": [],
+      "gaps": [],
+      "invalidations": []
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "conference-helper",
+  "version": "0.1.0",
+  "description": "Evidence-grounded research assistance for directions, ablations, paper writing and conference preparation."
+}

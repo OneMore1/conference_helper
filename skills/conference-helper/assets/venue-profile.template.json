@@ -1,0 +1,91 @@
+{
+  "schema_version": "0.1",
+  "conference": null,
+  "year": null,
+  "track": null,
+  "submission_stage": "initial",
+  "checked_on": null,
+  "official_sources": [],
+  "deadlines": [],
+  "checks": [
+    {
+      "id": "main_text_length",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "template_version",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "anonymity",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "pdf_visual_review",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "citations",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "ai_policy",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "ethics_and_data",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "dual_submission",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "authors",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "submission_metadata",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    },
+    {
+      "id": "supplementary",
+      "status": "unknown",
+      "detail": "",
+      "source_url": null,
+      "evidence": ""
+    }
+  ],
+  "manual_preflight_completed": false,
+  "prepared_artifacts": []
+}
