@@ -104,11 +104,6 @@ python "C:\Tools\conference_helper\tools\install_skill.py" --project "D:\Researc
 
 [三个完整教学案例](skills/conference-helper/examples/research-workflow-cases.md) · [消融计划模板](skills/conference-helper/assets/ablation-plan.md) · [可运行结果分析 Demo](examples/tiny-shapes/README.md) · [证据到写作示例](skills/conference-helper/examples/evidence-to-writing.md)
 
-## 依据与署名
-
-研究模式与经验依据：[ResearchStudio-Idea](https://arxiv.org/abs/2607.04439v1)。论文的归纳保留 CC BY 4.0；ResearchStudio 模式卡的改编保留 MIT。问题—机制—对照—边界的组织方式也参考了 [Paper X-Ray](https://github.com/Wang-auspicious/paper-xray)。
-
-原作者没有评估本项目的全流程效果。本项目的规则、工具和教学案例由 Conference Helper 编写，具体范围见[来源声明](skills/conference-helper/THIRD_PARTY_NOTICES.md)与[许可说明](skills/conference-helper/LICENSE-SCOPE.md)。
 
 ## 验证与文档
 
